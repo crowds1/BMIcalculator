@@ -1,1 +1,2 @@
-# BMIcalculator
+# BMI_calculater
+ BMI
